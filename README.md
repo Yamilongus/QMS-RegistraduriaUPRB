@@ -52,3 +52,6 @@ The provided code consists of two parts: a client script and a server script. Th
 - The server GUI is focused on displaying information rather than data entry.
 
 Please note that some parts of the code seem to be incomplete or might contain errors (e.g., `__init__` method in the server script and the commented-out code at the end of the server script). Additionally, the client and server scripts are separate entities, and they need to be run independently.
+
+![image](https://github.com/Yamilongus/QMS-RegistraduriaUPRB-COTI4430/assets/71163628/a179bf0b-5164-4637-835d-8fd487d7f6cf)
+
